@@ -28,7 +28,7 @@ In real-world application development, your software often needs to run in vario
 
 With Spring Boot, managing application configurations for diverse environments is straightforward and efficient.
 
-2. **Streamline Application Configuration using Confiration Properties**
+2. **Streamline Application Configuration using Configuration Properties**
 
 **Spring Boot** simplifies the process of binding external properties to Java beans, making it a valuable feature for complex applications.
 
