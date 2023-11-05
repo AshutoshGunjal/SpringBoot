@@ -54,4 +54,17 @@ In the past, deploying applications involved multiple steps, such as installing 
 
 This embedded server approach streamlines the deployment process, making it easier and more efficient for your applications.
 
+4. **Monitor and Manage Your Production Application**
+
+**Spring Boot Actuator** equips you with essential endpoints to monitor and manage your production application effortlessly. These endpoints provide vital insights into your application's health, metrics, and more.
+
+**Key Actuator Endpoints**:
+
+- **/actuator/beans**: Access the complete list of Spring beans in your application.
+- **/actuator/health**: Retrieve information about your application's health, ensuring it's running smoothly.
+- **/actuator/metrics**: Gather valuable metrics about your application's performance.
+- **/actuator/mappings**: Get details about your request mappings, helping you understand how incoming requests are handled.
+
+With Spring Boot Actuator, you can seamlessly monitor and manage your application in production, ensuring it operates at its best.
+
 
